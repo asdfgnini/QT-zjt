@@ -4,4 +4,6 @@ Interaction::Interaction(QObject *parent)
     : QObject{parent}
 {
 
+    controller.start();
+
 }

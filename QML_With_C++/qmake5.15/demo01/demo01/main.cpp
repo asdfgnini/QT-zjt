@@ -11,6 +11,8 @@ int main(int argc, char *argv[])
 #endif
     QGuiApplication app(argc, argv);
 
+    qDebug() << "main: "<< QThread::currentThreadId();
+
     //QML交互类
     qmlRegisterType<Interaction>("Interaction",1,0,"Interaction");
 
