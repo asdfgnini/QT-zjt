@@ -3,6 +3,7 @@ qt_add_executable(demo
     widget.h
     widget.cpp
     main.cpp
+    ../../res.qrc
 )
 
 target_link_libraries(demo PRIVATE worker Qt6::Widgets)
