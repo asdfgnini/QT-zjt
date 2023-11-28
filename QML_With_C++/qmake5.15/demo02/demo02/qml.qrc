@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>32x32/bluetooth.png</file>
+        <file>32x32/cart.png</file>
+        <file>32x32/cloud.png</file>
+        <file>32x32/favorite.png</file>
+        <file>32x32/filter.png</file>
+        <file>32x32/folder.png</file>
+        <file>32x32/message.png</file>
+        <file>32x32/music.png</file>
+        <file>32x32/next.png</file>
+        <file>32x32/pause.png</file>
+        <file>32x32/power.png</file>
+        <file>32x32/previous.png</file>
+        <file>32x32/repeat.png</file>
+        <file>32x32/save.png</file>
+        <file>32x32/settings.png</file>
+        <file>32x32/shuffle.png</file>
+        <file>32x32/stop.png</file>
+    </qresource>
+</RCC>

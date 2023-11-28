@@ -10,7 +10,7 @@ class Interaction : public QObject
     Q_OBJECT
 public:
     explicit Interaction(QObject *parent = nullptr);
-
+    Q_INVOKABLE void test_slot();
 private:
     Controller controller;
 

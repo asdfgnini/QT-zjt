@@ -9,22 +9,27 @@ ApplicationWindow {
     height: 480
     visible: true
     title: qsTr("Hello World")
+    property int value: 0
+
 
 
     Button{
+        id:btn
         x:100
         width: 50
         height: 50
         text: "clicked"
         highlighted: true
         onClicked: {
-            console.log("ckicked")
+            interaction.test_slot()
         }
     }
 
     Text {
         id: text01
-        text: number("0")
+        font.pixelSize: 40
+        anchors.centerIn: parent
+        text: value
     }
 
     Timer{
@@ -32,7 +37,7 @@ ApplicationWindow {
         running: true
         repeat: true
         onTriggered: {
-            text01.text += 1
+            value++;
         }
     }
 
@@ -40,5 +45,6 @@ ApplicationWindow {
     Interaction{
         id:interaction
     }
+
 
 }

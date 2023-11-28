@@ -1,11 +1,26 @@
-#ifndef CONTROLLER_H
-#define CONTROLLER_H
+#ifndef WORKER_H
+#define WORKER_H
 
 #include <QObject>
+
+
 #include <QThread>
 
-#include "worker.h"
 
+class Worker : public QObject
+{
+    Q_OBJECT
+public:
+    explicit Worker(QObject *parent = nullptr);
+
+signals:
+    void resultReady(const QString &str); // 向外界发送结果
+
+public slots:
+    void on_doSomething(); // 耗时操作
+};
+
+//控制类
 class Controller : public QObject
 {
     Q_OBJECT
@@ -20,14 +35,11 @@ signals:
 
 public slots:
     void on_receivResult(const QString &str); // 接收新线程中的结果
-    void on_receivResult_02(const QString &str); // 接收新线程中的结果
 
 private:
     QThread m_workThread;
-    QThread m_workThread_02;
     Worker *m_worker;
-    Worker *m_worker_02;
-
-
 };
-#endif // CONTROLLER_H
+
+
+#endif // WORKER_H
