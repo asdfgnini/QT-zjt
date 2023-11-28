@@ -9,7 +9,6 @@ find_package(Qt6 6.2 COMPONENTS Quick REQUIRED)
 
 
 
-
 qt_add_executable(appdemo
     main.cpp
 )
@@ -24,6 +23,7 @@ qt_add_qml_module(appdemo
     SOURCES
         Interaction/interaction.h Interaction/interaction.cpp
         C++/worker.h C++/worker.cpp
+
 
     RESOURCES
     "images/32x32/cart.png"
