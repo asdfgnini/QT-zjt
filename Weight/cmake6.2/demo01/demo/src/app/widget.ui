@@ -43,6 +43,16 @@
     <string>github</string>
    </property>
   </widget>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>400</y>
+     <width>191</width>
+     <height>71</height>
+    </rect>
+   </property>
+  </widget>
  </widget>
  <resources>
   <include location="../../res.qrc"/>
