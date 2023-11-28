@@ -1,7 +1,7 @@
 qt_add_executable(demo
     widget.ui
-    widget.cpp
     widget.h
+    widget.cpp
     main.cpp
 )
 

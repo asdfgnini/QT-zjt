@@ -2,8 +2,8 @@
 #define WIDGET_H
 
 #include <QWidget>
+#include <worker.h>
 
-#include "worker.h"
 
 
 QT_BEGIN_NAMESPACE
@@ -20,7 +20,6 @@ public:
 
 private:
     Ui::Widget *ui;
-
     Controller controller;
 };
 #endif // WIDGET_H

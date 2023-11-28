@@ -6,9 +6,7 @@ Widget::Widget(QWidget *parent)
     , ui(new Ui::Widget)
 {
     ui->setupUi(this);
-
     controller.start();
-
 }
 
 Widget::~Widget()

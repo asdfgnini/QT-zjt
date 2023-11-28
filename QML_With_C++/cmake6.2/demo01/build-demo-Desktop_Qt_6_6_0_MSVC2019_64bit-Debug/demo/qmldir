@@ -1,0 +1,5 @@
+module demo
+typeinfo appdemo.qmltypes
+prefer :/demo/
+MyButton 1.0 MyButton/MyButton.qml
+
