@@ -12,7 +12,7 @@ Window {
     title: qsTr("Hello World")
 
     ToolButton{
-        icon.source: "qrc:/demo/images/32x32/cart.png"
+        icon.source: "qrc:/images/32x32/cart.png"
         anchors.centerIn: parent
     }
 

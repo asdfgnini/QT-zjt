@@ -14,7 +14,7 @@ Item {
             onClicked: model.revert()
         }
         ToolButton{
-            icon.source: "qrc:/demo/images/32x32/cloud.png"
+            icon.source: "qrc:/images/32x32/cloud.png"
             onClicked: {
                 console.log("资源文件加载OK")
             }

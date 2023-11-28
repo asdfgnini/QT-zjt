@@ -2,8 +2,7 @@
   <qresource prefix="/demo/">
     <file alias="main.qml">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/main.qml</file>
     <file alias="MyButton/MyButton.qml">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/MyButton/MyButton.qml</file>
-    <file alias="images/32x32/cart.png">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/cart.png</file>
-    <file alias="images/32x32/cloud.png">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/cloud.png</file>
+    <file alias="res.qrc">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/res.qrc</file>
   </qresource>
 </RCC>
 

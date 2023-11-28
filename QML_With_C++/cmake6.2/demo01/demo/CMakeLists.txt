@@ -3,14 +3,17 @@ cmake_minimum_required(VERSION 3.16)
 project(demo VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
+
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-find_package(Qt6 6.2 COMPONENTS Quick REQUIRED)
+find_package(Qt6 6.2 COMPONENTS Quick Core REQUIRED)
 
 
 
 qt_add_executable(appdemo
     main.cpp
+
 )
 
 qt_add_qml_module(appdemo
@@ -23,11 +26,8 @@ qt_add_qml_module(appdemo
     SOURCES
         Interaction/interaction.h Interaction/interaction.cpp
         C++/worker.h C++/worker.cpp
-
-
     RESOURCES
-    "images/32x32/cart.png"
-    "images/32x32/cloud.png"
+        res.qrc
 
 )
 
@@ -46,7 +46,7 @@ set_target_properties(appdemo PROPERTIES
 )
 
 target_link_libraries(appdemo
-    PRIVATE Qt6::Quick)
+    PRIVATE Qt6::Quick Qt6::Core)
 
 include(GNUInstallDirs)
 install(TARGETS appdemo
