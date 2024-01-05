@@ -2,5 +2,7 @@
     <qresource prefix="/">
         <file>fragment.frag</file>
         <file>vertex.vert</file>
+        <file>container.jpg</file>
+        <file>face.png</file>
     </qresource>
 </RCC>

@@ -164,7 +164,7 @@ build demo02_autogen\timestamp demo02_autogen\mocs_compilation.cpp | ${cmake_nin
 #############################################
 # Custom command for demo02_autogen\EWIEGA46WW\qrc_res.cpp
 
-build demo02_autogen\EWIEGA46WW\qrc_res.cpp | ${cmake_ninja_workdir}demo02_autogen\EWIEGA46WW\qrc_res.cpp: CUSTOM_COMMAND C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\res.qrc CMakeFiles\demo02_autogen.dir\AutoRcc_res_EWIEGA46WW_Info.json C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\vertex.vert C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\fragment.frag H$:\Qt\6.6.0\msvc2019_64\.\bin\rcc.exe || demo02_autogen demo02_autogen_timestamp_deps
+build demo02_autogen\EWIEGA46WW\qrc_res.cpp | ${cmake_ninja_workdir}demo02_autogen\EWIEGA46WW\qrc_res.cpp: CUSTOM_COMMAND C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\res.qrc CMakeFiles\demo02_autogen.dir\AutoRcc_res_EWIEGA46WW_Info.json C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\vertex.vert C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\fragment.frag C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\face.png C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\container.jpg H$:\Qt\6.6.0\msvc2019_64\.\bin\rcc.exe || demo02_autogen demo02_autogen_timestamp_deps
   COMMAND = cmd.exe /C "cd /D C:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug && H:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_autorcc C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/CMakeFiles/demo02_autogen.dir/AutoRcc_res_EWIEGA46WW_Info.json Debug"
   DESC = Automatic RCC for res.qrc
   restat = 1
@@ -173,7 +173,7 @@ build demo02_autogen\EWIEGA46WW\qrc_res.cpp | ${cmake_ninja_workdir}demo02_autog
 #############################################
 # Phony custom command for CMakeFiles\demo02_autogen_timestamp_deps
 
-build CMakeFiles\demo02_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\demo02_autogen_timestamp_deps: phony H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Cored.lib H$:\Qt\6.6.0\msvc2019_64\.\bin\moc.exe H$:\Qt\6.6.0\msvc2019_64\.\bin\uic.exe H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Widgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLWidgetsd.lib
+build CMakeFiles\demo02_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\demo02_autogen_timestamp_deps: phony H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Cored.lib H$:\Qt\6.6.0\msvc2019_64\.\bin\moc.exe H$:\Qt\6.6.0\msvc2019_64\.\bin\uic.exe H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLWidgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Widgetsd.lib
 
 
 #############################################
