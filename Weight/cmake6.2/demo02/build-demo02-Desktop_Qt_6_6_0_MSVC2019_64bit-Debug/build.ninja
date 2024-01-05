@@ -51,25 +51,25 @@ build cmake_object_order_depends_target_demo02: phony || demo02_autogen demo02_a
 
 build CMakeFiles\demo02.dir\demo02_autogen\mocs_compilation.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug\demo02_autogen\mocs_compilation.cpp || cmake_object_order_depends_target_demo02
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -Zc:__cplusplus -permissive- -utf-8 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zc:__cplusplus -permissive- -utf-8 -std:c++17
   INCLUDES = -IC:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug\demo02_autogen\include -external:IH:\Qt\6.6.0\msvc2019_64\include\QtCore -external:IH:\Qt\6.6.0\msvc2019_64\include -external:IH:\Qt\6.6.0\msvc2019_64\mkspecs\win32-msvc -external:IH:\Qt\6.6.0\msvc2019_64\include\QtWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtGui -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGLWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGL -external:W0
   OBJECT_DIR = CMakeFiles\demo02.dir
   OBJECT_FILE_DIR = CMakeFiles\demo02.dir\demo02_autogen
   TARGET_COMPILE_PDB = CMakeFiles\demo02.dir\
   TARGET_PDB = demo02.pdb
 
-build CMakeFiles\demo02.dir\main.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\main.cpp || cmake_object_order_depends_target_demo02
+build CMakeFiles\demo02.dir\mainwindow.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\mainwindow.cpp || cmake_object_order_depends_target_demo02
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -Zc:__cplusplus -permissive- -utf-8 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zc:__cplusplus -permissive- -utf-8 -std:c++17
   INCLUDES = -IC:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug\demo02_autogen\include -external:IH:\Qt\6.6.0\msvc2019_64\include\QtCore -external:IH:\Qt\6.6.0\msvc2019_64\include -external:IH:\Qt\6.6.0\msvc2019_64\mkspecs\win32-msvc -external:IH:\Qt\6.6.0\msvc2019_64\include\QtWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtGui -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGLWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGL -external:W0
   OBJECT_DIR = CMakeFiles\demo02.dir
   OBJECT_FILE_DIR = CMakeFiles\demo02.dir
   TARGET_COMPILE_PDB = CMakeFiles\demo02.dir\
   TARGET_PDB = demo02.pdb
 
-build CMakeFiles\demo02.dir\widget.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\widget.cpp || cmake_object_order_depends_target_demo02
+build CMakeFiles\demo02.dir\main.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\main.cpp || cmake_object_order_depends_target_demo02
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -Zc:__cplusplus -permissive- -utf-8 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zc:__cplusplus -permissive- -utf-8 -std:c++17
   INCLUDES = -IC:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug\demo02_autogen\include -external:IH:\Qt\6.6.0\msvc2019_64\include\QtCore -external:IH:\Qt\6.6.0\msvc2019_64\include -external:IH:\Qt\6.6.0\msvc2019_64\mkspecs\win32-msvc -external:IH:\Qt\6.6.0\msvc2019_64\include\QtWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtGui -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGLWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGL -external:W0
   OBJECT_DIR = CMakeFiles\demo02.dir
   OBJECT_FILE_DIR = CMakeFiles\demo02.dir
@@ -78,7 +78,7 @@ build CMakeFiles\demo02.dir\widget.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users
 
 build CMakeFiles\demo02.dir\opengl_widget.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\demo02\opengl_widget.cpp || cmake_object_order_depends_target_demo02
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -Zc:__cplusplus -permissive- -utf-8 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zc:__cplusplus -permissive- -utf-8 -std:c++17
   INCLUDES = -IC:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug\demo02_autogen\include -external:IH:\Qt\6.6.0\msvc2019_64\include\QtCore -external:IH:\Qt\6.6.0\msvc2019_64\include -external:IH:\Qt\6.6.0\msvc2019_64\mkspecs\win32-msvc -external:IH:\Qt\6.6.0\msvc2019_64\include\QtWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtGui -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGLWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGL -external:W0
   OBJECT_DIR = CMakeFiles\demo02.dir
   OBJECT_FILE_DIR = CMakeFiles\demo02.dir
@@ -87,7 +87,7 @@ build CMakeFiles\demo02.dir\opengl_widget.cpp.obj: CXX_COMPILER__demo02_Debug C$
 
 build CMakeFiles\demo02.dir\demo02_autogen\EWIEGA46WW\qrc_res.cpp.obj: CXX_COMPILER__demo02_Debug C$:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug\demo02_autogen\EWIEGA46WW\qrc_res.cpp || cmake_object_order_depends_target_demo02
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -Zc:__cplusplus -permissive- -utf-8 -std:c++17
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd -Zc:__cplusplus -permissive- -utf-8 -std:c++17
   INCLUDES = -IC:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug\demo02_autogen\include -external:IH:\Qt\6.6.0\msvc2019_64\include\QtCore -external:IH:\Qt\6.6.0\msvc2019_64\include -external:IH:\Qt\6.6.0\msvc2019_64\mkspecs\win32-msvc -external:IH:\Qt\6.6.0\msvc2019_64\include\QtWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtGui -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGLWidgets -external:IH:\Qt\6.6.0\msvc2019_64\include\QtOpenGL -external:W0
   OBJECT_DIR = CMakeFiles\demo02.dir
   OBJECT_FILE_DIR = CMakeFiles\demo02.dir\demo02_autogen\EWIEGA46WW
@@ -102,8 +102,8 @@ build CMakeFiles\demo02.dir\demo02_autogen\EWIEGA46WW\qrc_res.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable demo02.exe
 
-build demo02.exe: CXX_EXECUTABLE_LINKER__demo02_Debug CMakeFiles\demo02.dir\demo02_autogen\mocs_compilation.cpp.obj CMakeFiles\demo02.dir\main.cpp.obj CMakeFiles\demo02.dir\widget.cpp.obj CMakeFiles\demo02.dir\opengl_widget.cpp.obj CMakeFiles\demo02.dir\demo02_autogen\EWIEGA46WW\qrc_res.cpp.obj | H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLWidgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Widgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Guid.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Cored.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6EntryPointd.lib || demo02_autogen demo02_autogen_timestamp_deps
-  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+build demo02.exe: CXX_EXECUTABLE_LINKER__demo02_Debug CMakeFiles\demo02.dir\demo02_autogen\mocs_compilation.cpp.obj CMakeFiles\demo02.dir\mainwindow.cpp.obj CMakeFiles\demo02.dir\main.cpp.obj CMakeFiles\demo02.dir\opengl_widget.cpp.obj CMakeFiles\demo02.dir\demo02_autogen\EWIEGA46WW\qrc_res.cpp.obj | H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLWidgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Widgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Guid.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Cored.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6EntryPointd.lib || demo02_autogen demo02_autogen_timestamp_deps
+  FLAGS = -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -MDd
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:windows
   LINK_LIBRARIES = H:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLWidgetsd.lib  H:\Qt\6.6.0\msvc2019_64\lib\Qt6Widgetsd.lib  H:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLd.lib  H:\Qt\6.6.0\msvc2019_64\lib\Qt6Guid.lib  H:\Qt\6.6.0\msvc2019_64\lib\Qt6Cored.lib  mpr.lib  userenv.lib  H:\Qt\6.6.0\msvc2019_64\lib\Qt6EntryPointd.lib  shell32.lib  d3d11.lib  dxgi.lib  dxguid.lib  d3d12.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   OBJECT_DIR = CMakeFiles\demo02.dir
@@ -140,36 +140,6 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 
 
 #############################################
-# Utility command for list_install_components
-
-build list_install_components: phony
-
-
-#############################################
-# Utility command for install
-
-build CMakeFiles\install.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug && H:\Qt\Tools\CMake_64\bin\cmake.exe -P cmake_install.cmake"
-  DESC = Install the project...
-  pool = console
-  restat = 1
-
-build install: phony CMakeFiles\install.util
-
-
-#############################################
-# Utility command for install/local
-
-build CMakeFiles\install\local.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\ZJT\Desktop\github\QT_zjt\Weight\cmake6.2\demo02\build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug && H:\Qt\Tools\CMake_64\bin\cmake.exe -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
-  DESC = Installing only the local directory...
-  pool = console
-  restat = 1
-
-build install\local: phony CMakeFiles\install\local.util
-
-
-#############################################
 # Utility command for demo02_autogen_timestamp_deps
 
 build demo02_autogen_timestamp_deps: phony CMakeFiles\demo02_autogen_timestamp_deps
@@ -178,7 +148,7 @@ build demo02_autogen_timestamp_deps: phony CMakeFiles\demo02_autogen_timestamp_d
 #############################################
 # Utility command for demo02_autogen
 
-build demo02_autogen: phony CMakeFiles\demo02_autogen demo02_autogen\include\ui_widget.h demo02_autogen\timestamp demo02_autogen\mocs_compilation.cpp demo02_autogen_timestamp_deps
+build demo02_autogen: phony CMakeFiles\demo02_autogen demo02_autogen\include\ui_mainwindow.h demo02_autogen\timestamp demo02_autogen\mocs_compilation.cpp demo02_autogen_timestamp_deps
 
 
 #############################################
@@ -203,13 +173,13 @@ build demo02_autogen\EWIEGA46WW\qrc_res.cpp | ${cmake_ninja_workdir}demo02_autog
 #############################################
 # Phony custom command for CMakeFiles\demo02_autogen_timestamp_deps
 
-build CMakeFiles\demo02_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\demo02_autogen_timestamp_deps: phony H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Cored.lib H$:\Qt\6.6.0\msvc2019_64\.\bin\uic.exe H$:\Qt\6.6.0\msvc2019_64\.\bin\moc.exe H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLWidgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Widgetsd.lib
+build CMakeFiles\demo02_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\demo02_autogen_timestamp_deps: phony H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Cored.lib H$:\Qt\6.6.0\msvc2019_64\.\bin\moc.exe H$:\Qt\6.6.0\msvc2019_64\.\bin\uic.exe H$:\Qt\6.6.0\msvc2019_64\lib\Qt6Widgetsd.lib H$:\Qt\6.6.0\msvc2019_64\lib\Qt6OpenGLWidgetsd.lib
 
 
 #############################################
 # Phony custom command for CMakeFiles\demo02_autogen
 
-build CMakeFiles\demo02_autogen demo02_autogen\include\ui_widget.h | ${cmake_ninja_workdir}CMakeFiles\demo02_autogen ${cmake_ninja_workdir}demo02_autogen\include\ui_widget.h: phony demo02_autogen\timestamp || demo02_autogen_timestamp_deps
+build CMakeFiles\demo02_autogen demo02_autogen\include\ui_mainwindow.h | ${cmake_ninja_workdir}CMakeFiles\demo02_autogen ${cmake_ninja_workdir}demo02_autogen\include\ui_mainwindow.h: phony demo02_autogen\timestamp || demo02_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

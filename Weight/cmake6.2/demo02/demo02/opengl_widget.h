@@ -1,20 +1,23 @@
- #ifndef OPENGL_WIDGET_H
+#ifndef OPENGL_WIDGET_H
 #define OPENGL_WIDGET_H
 
+#include <QWidget>
 #include <QOpenGLWidget>
-#include <QOpenGLFunctions_3_3_Core>
+#include <QOpenGLExtraFunctions>
 #include <QOpenGLShaderProgram>
+#include <QOpenGLBuffer>
+#include <QOpenGLVertexArrayObject>
 
 #include <iostream>
 
-class opengl_widget : public QOpenGLWidget,QOpenGLFunctions_3_3_Core
+class OpenGL_Widget : public QOpenGLWidget,QOpenGLExtraFunctions
 {
     Q_OBJECT
 public:
-    opengl_widget(QWidget*parent);
-    ~opengl_widget();
-protected:
+    explicit OpenGL_Widget(QWidget *parent = nullptr);
+    ~OpenGL_Widget();
 
+protected:
     void initializeGL();
     void resizeGL(int w, int h);
     void paintGL();
@@ -22,8 +25,9 @@ protected:
 private:
     QOpenGLShaderProgram shaderProgram;
 
-    unsigned int VBO;
-    unsigned int VAO;
+    QOpenGLBuffer VBO;
+    QOpenGLVertexArrayObject VAO;
+    QVector<float> vertices;
 
 };
 

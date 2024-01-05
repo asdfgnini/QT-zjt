@@ -60,34 +60,6 @@
 		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake",
 		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake",
 		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageMessage.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Config.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Targets.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtFeature.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake",
-		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindThreads.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckLibraryExists.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake",
-		"H:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/FindPackageMessage.cmake",
 		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake",
 		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake",
 		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
@@ -346,15 +318,15 @@
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/opengl_widget.h",
+			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/mainwindow.h",
 			"MU",
-			"EWIEGA46WW/moc_opengl_widget.cpp",
+			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
 		],
 		[
-			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/widget.h",
+			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/opengl_widget.h",
 			"MU",
-			"EWIEGA46WW/moc_widget.cpp",
+			"EWIEGA46WW/moc_opengl_widget.cpp",
 			null
 		]
 	],
@@ -422,12 +394,12 @@
 			null
 		],
 		[
-			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/opengl_widget.cpp",
+			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/mainwindow.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/widget.cpp",
+			"C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/demo02/opengl_widget.cpp",
 			"MU",
 			null
 		]
