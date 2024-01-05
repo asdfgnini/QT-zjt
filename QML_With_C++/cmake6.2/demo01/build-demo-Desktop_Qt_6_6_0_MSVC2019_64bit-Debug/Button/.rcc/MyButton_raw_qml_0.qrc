@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/Button/">
+    <file alias="MyButton.qml">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/Button/MyButton.qml</file>
+    <file alias="32x32/power.png">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/Button/32x32/power.png</file>
+  </qresource>
+</RCC>
+

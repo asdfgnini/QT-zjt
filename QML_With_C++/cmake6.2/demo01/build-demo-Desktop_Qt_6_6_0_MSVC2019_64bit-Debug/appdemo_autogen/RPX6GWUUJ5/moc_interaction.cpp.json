@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "className": "Interaction",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "test",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "Interaction",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "interaction.h",
+    "outputRevision": 68
+}

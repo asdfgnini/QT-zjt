@@ -1,0 +1,94 @@
+{
+	"BUILD_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/MediaControlsplugin_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/Button",
+	"CMAKE_EXECUTABLE" : "H:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/Button/CMakeLists.txt",
+		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"H:/Qt/6.6.0/msvc2019_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo",
+	"DEP_FILE" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/MediaControlsplugin_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "MediaControlsplugin_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/MediaControlsplugin_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/MediaControlsplugin_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MediaControlsplugin_EXPORTS",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_NETWORK_LIB",
+		"QT_PLUGIN",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"H:/Qt/6.6.0/msvc2019_64/include/QtQml",
+		"H:/Qt/6.6.0/msvc2019_64/include",
+		"H:/Qt/6.6.0/msvc2019_64/include/QtCore",
+		"H:/Qt/6.6.0/msvc2019_64/mkspecs/win32-msvc",
+		"H:/Qt/6.6.0/msvc2019_64/include/QtQmlIntegration",
+		"H:/Qt/6.6.0/msvc2019_64/include/QtNetwork"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [ "-Muri=MediaControls" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/.rcc/qmlcache/MediaControls_MyButton_qml.cpp",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/.rcc/qrc_MediaControls_raw_qml_0.cpp",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/.rcc/qrc_qmake_MediaControls.cpp",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/Button_autogen/mocs_compilation.cpp",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/MediaControls_autogen/mocs_compilation.cpp",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/mediacontrols_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/CMakeFiles/MediaControlsplugin_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "H:/Qt/6.6.0/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/CMakeFiles/MediaControlsplugin_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/Button/MediaControlsplugin_MediaControlsPlugin.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

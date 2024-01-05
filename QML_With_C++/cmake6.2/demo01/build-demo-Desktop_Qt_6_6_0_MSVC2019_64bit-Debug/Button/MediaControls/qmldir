@@ -1,0 +1,8 @@
+module Button
+linktarget MyButtonplugin
+optional plugin MyButtonplugin
+classname ButtonPlugin
+typeinfo MyButton.qmltypes
+prefer :/Button/
+singleton MyButton 254.0 MyButton.qml
+

@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/appdemo_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo",
+	"CMAKE_SOURCE_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo",
+	"INCLUDE_DIR" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/appdemo_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/filter.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/stop.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/music.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/folder.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/repeat.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/message.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/pause.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/cart.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/save.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/next.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/cloud.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/settings.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/power.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/previous.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/favorite.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/bluetooth.png",
+		"C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/images/32x32/shuffle.png"
+	],
+	"LOCK_FILE" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/CMakeFiles/appdemo_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "H:/Qt/6.6.0/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/CMakeFiles/appdemo_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/res.qrc",
+	"VERBOSITY" : 0
+}

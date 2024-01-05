@@ -1,0 +1,8 @@
+module MediaControls
+linktarget MediaControlsplugin
+optional plugin MediaControlsplugin
+classname MediaControlsPlugin
+typeinfo MediaControls.qmltypes
+prefer :/MediaControls/
+AudioControl 254.0 AudioControl.qml
+

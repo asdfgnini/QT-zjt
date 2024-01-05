@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/MediaControls/">
+    <file alias="AudioControl.qml">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/MyButton/AudioControl.qml</file>
+    <file alias="icons/Rate_Icon.svg">C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo/MyButton/icons/Rate_Icon.svg</file>
+  </qresource>
+</RCC>
+

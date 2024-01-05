@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"src/app/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "demo_autogen_timestamp_deps::@ff93792cf40911dae1b8"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "demo_autogen::@ff93792cf40911dae1b8",
+	"isGeneratorProvided" : true,
+	"name" : "demo_autogen",
+	"paths" : 
+	{
+		"build" : "src/app",
+		"source" : "src/app"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/src/app/CMakeFiles/demo_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/src/app/CMakeFiles/demo_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/src/app/demo_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

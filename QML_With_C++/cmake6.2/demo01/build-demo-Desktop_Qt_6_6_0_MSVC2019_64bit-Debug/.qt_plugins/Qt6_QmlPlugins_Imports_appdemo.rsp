@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo
+-cmake-output
+-output-file
+C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appdemo.cmake
+-importPath
+C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo
+-importPath
+C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug
+-importPath
+H:/Qt/6.6.0/msvc2019_64/./qml
+-qrcFiles
+C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/.rcc/qmake_demo.qrc
+C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/.rcc/appdemo_raw_qml_0.qrc

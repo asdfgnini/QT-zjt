@@ -1,0 +1,94 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Interaction",
+                "methods": [
+                    {
+                        "access": "public",
+                        "name": "test",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "Interaction",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "interaction.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Worker",
+                "object": true,
+                "qualifiedClassName": "Worker",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "str",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "resultReady",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "on_doSomething",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            },
+            {
+                "className": "Controller",
+                "object": true,
+                "qualifiedClassName": "Controller",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "startRunning",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "str",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "on_receivResult",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "worker.h",
+        "outputRevision": 68
+    }
+]

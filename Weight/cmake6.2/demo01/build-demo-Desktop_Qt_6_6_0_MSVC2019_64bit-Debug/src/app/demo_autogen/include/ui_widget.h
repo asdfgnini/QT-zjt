@@ -13,6 +13,7 @@
 #include <QtGui/QIcon>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QLabel>
+#include <QtWidgets/QPlainTextEdit>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -22,6 +23,7 @@ class Ui_Widget
 public:
     QLabel *label;
     QLabel *label_2;
+    QPlainTextEdit *plainTextEdit;
 
     void setupUi(QWidget *Widget)
     {
@@ -37,6 +39,9 @@ public:
         label_2 = new QLabel(Widget);
         label_2->setObjectName("label_2");
         label_2->setGeometry(QRect(250, 480, 54, 16));
+        plainTextEdit = new QPlainTextEdit(Widget);
+        plainTextEdit->setObjectName("plainTextEdit");
+        plainTextEdit->setGeometry(QRect(490, 400, 191, 71));
 
         retranslateUi(Widget);
 

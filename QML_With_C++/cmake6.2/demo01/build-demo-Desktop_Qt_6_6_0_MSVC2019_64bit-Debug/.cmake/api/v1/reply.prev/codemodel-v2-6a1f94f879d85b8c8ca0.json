@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6b927e487f2afe7e432c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-52e86ce7523a35031efa.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-a88aa96951995b2fbe60.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-1ee944d9649cd12a39f0.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-42d1e6554229bd08da19.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo-Debug-8c0c1674ee1950f25d63.json",
+					"name" : "appdemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_autogen-Debug-6f90f6a715048d98a87d.json",
+					"name" : "appdemo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_autogen_timestamp_deps-Debug-81895f378c343813a03d.json",
+					"name" : "appdemo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_qmlimportscan-Debug-e1a7926e83354d4e9f9f.json",
+					"name" : "appdemo_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_qmllint-Debug-a5579dac72e312c845b6.json",
+					"name" : "appdemo_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_qmllint_json-Debug-3823f332bbf0d1e2ffb5.json",
+					"name" : "appdemo_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_qmllint_module-Debug-2b774ebe7d5119ee4208.json",
+					"name" : "appdemo_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_qmltyperegistration-Debug-8bb141bf5e0ca0c782af.json",
+					"name" : "appdemo_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdemo_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdemo_tooling-Debug-0671b1ca6cc0a0935863.json",
+					"name" : "appdemo_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/build-demo-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/ZJT/Desktop/github/QT_zjt/QML_With_C++/cmake6.2/demo01/demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
