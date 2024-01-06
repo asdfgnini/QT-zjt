@@ -1,0 +1,21 @@
+# ninja log v5
+2	400	7262223135418158	demo03_autogen/timestamp	5b18d81444b112f0
+2	400	7262223135418158	demo03_autogen/mocs_compilation.cpp	5b18d81444b112f0
+2	400	7262223135418158	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo03/build-demo03-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo03_autogen/timestamp	5b18d81444b112f0
+401	471	7262223137181256	demo03_autogen/EWIEGA46WW/qrc_res.cpp	fca0961ad727ef66
+2	400	7262223135418158	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo03/build-demo03-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo03_autogen/mocs_compilation.cpp	5b18d81444b112f0
+471	2267	7262223155128876	CMakeFiles/demo03.dir/demo03_autogen/mocs_compilation.cpp.obj	8a12ac1bce120642
+401	471	7262223137181256	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo03/build-demo03-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo03_autogen/EWIEGA46WW/qrc_res.cpp	fca0961ad727ef66
+478	559	7262223138081455	CMakeFiles/demo03.dir/demo03_autogen/EWIEGA46WW/qrc_res.cpp.obj	9a60fe8d5b6617d4
+476	2281	7262223155218898	CMakeFiles/demo03.dir/main.cpp.obj	7465ef6c133a919e
+474	2295	7262223155408982	CMakeFiles/demo03.dir/widget.cpp.obj	dc35491f05197142
+2295	2680	7262223159212773	demo03.exe	c6909c2cb57f30fd
+5	202	7262237528611450	demo03_autogen/timestamp	5b18d81444b112f0
+5	202	7262237528611450	demo03_autogen/mocs_compilation.cpp	5b18d81444b112f0
+5	202	7262237528611450	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo03/build-demo03-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo03_autogen/timestamp	5b18d81444b112f0
+5	202	7262237528611450	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo03/build-demo03-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo03_autogen/mocs_compilation.cpp	5b18d81444b112f0
+205	274	7262237529321609	demo03_autogen/EWIEGA46WW/qrc_res.cpp	fca0961ad727ef66
+205	274	7262237529321609	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo03/build-demo03-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo03_autogen/EWIEGA46WW/qrc_res.cpp	fca0961ad727ef66
+277	753	7262237534111522	CMakeFiles/demo03.dir/demo03_autogen/EWIEGA46WW/qrc_res.cpp.obj	9a60fe8d5b6617d4
+274	2189	7262237548437150	CMakeFiles/demo03.dir/widget.cpp.obj	dc35491f05197142
+2189	2363	7262237549887687	demo03.exe	c6909c2cb57f30fd

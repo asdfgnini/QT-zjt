@@ -1,0 +1,23 @@
+# ninja log v5
+4	234	7262278321795117	demo02_autogen/timestamp	4fb5d42e7216b761
+240	2997	7262278349356586	CMakeFiles/demo02.dir/opengl_widget.cpp.obj	a74ad10b0aee854a
+237	2988	7262278349276575	CMakeFiles/demo02.dir/widget.cpp.obj	f791a80844d94121
+4	234	7262278321795117	demo02_autogen/mocs_compilation.cpp	4fb5d42e7216b761
+4	234	7262278321795117	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo02_autogen/timestamp	4fb5d42e7216b761
+460	2932	7262278187419206	CMakeFiles/demo02.dir/demo02_autogen/mocs_compilation.cpp.obj	b262428899fe9b88
+4	234	7262278321795117	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo02_autogen/mocs_compilation.cpp	4fb5d42e7216b761
+442	2487	7262231096430046	CMakeFiles/demo02.dir/main.cpp.obj	ef4845159b8844d
+2997	3265	7262278351692164	demo02.exe	d476fcf12ad6070a
+3	77	7262271255202081	demo02_autogen/EWIEGA46WW/qrc_res.cpp	2330526f40aa5f2f
+3	77	7262271255202081	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo02_autogen/EWIEGA46WW/qrc_res.cpp	2330526f40aa5f2f
+78	581	7262271260238183	CMakeFiles/demo02.dir/demo02_autogen/EWIEGA46WW/qrc_res.cpp.obj	26d69438da6414ca
+5	245	7262282785437172	demo02_autogen/timestamp	4fb5d42e7216b761
+5	245	7262282785437172	demo02_autogen/mocs_compilation.cpp	4fb5d42e7216b761
+5	245	7262282785437172	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo02_autogen/timestamp	4fb5d42e7216b761
+5	245	7262282785437172	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo02_autogen/mocs_compilation.cpp	4fb5d42e7216b761
+248	331	7262282786277356	demo02_autogen/EWIEGA46WW/qrc_res.cpp	2330526f40aa5f2f
+248	331	7262282786277356	C:/Users/ZJT/Desktop/github/QT_zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/demo02_autogen/EWIEGA46WW/qrc_res.cpp	2330526f40aa5f2f
+337	889	7262282791871681	CMakeFiles/demo02.dir/demo02_autogen/EWIEGA46WW/qrc_res.cpp.obj	26d69438da6414ca
+334	2438	7262282807331413	CMakeFiles/demo02.dir/opengl_widget.cpp.obj	a74ad10b0aee854a
+332	2460	7262282807541462	CMakeFiles/demo02.dir/widget.cpp.obj	f791a80844d94121
+2461	2649	7262282809192145	demo02.exe	d476fcf12ad6070a
