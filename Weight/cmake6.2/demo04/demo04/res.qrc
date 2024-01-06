@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fragment.frag</file>
+        <file>Vertex.vert</file>
+        <file>opengl.jpg</file>
+        <file>opengl2.jpg</file>
+    </qresource>
+</RCC>
