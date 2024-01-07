@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "thread",
+					"jsonFile" : "directory-thread-Debug-9f696b3d0c5c247e01de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "thread",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "demo02",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "demo02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo02-Debug-3035cc0b323c152f539b.json",
+					"name" : "demo02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo02_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo02_autogen-Debug-27f25bf08a59c04e9a69.json",
+					"name" : "demo02_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo02_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo02_autogen_timestamp_deps-Debug-6afae58894ffd004b9cc.json",
+					"name" : "demo02_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "worker::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-worker-Debug-a2f26f4e5e8eb3c5074e.json",
+					"name" : "worker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "worker_autogen::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-worker_autogen-Debug-485d81ee4e996ec6b389.json",
+					"name" : "worker_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "worker_autogen_timestamp_deps::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-worker_autogen_timestamp_deps-Debug-5ea40d37b44a010f4717.json",
+					"name" : "worker_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Administrator/Desktop/Qt/demo02/demo02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

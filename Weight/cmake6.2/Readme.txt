@@ -12,3 +12,9 @@ opengl画cube 采用opengl原生API
 使用OpenGL 实现网格和坐标轴，和平移，旋转，缩放功能，采用QT对OpenGL的C++封装API
 #demo07
 使用OpenGL 实现cube和平移，旋转，缩放功能。采用QT对OpenGL的C++封装API
+# demo08
+ffmpeg 载入本地的流媒体文件，将解码后的YUV文件保存到本地，目前支持YUV420p格式，同时将解码后的数据帧转换为RGB32格式显示在widget上，解码过程由子线程来干，传给子线程ffmpeg控制句柄，子线程传回来组好的QImage 给主线程。主线程负责绘制
+# demo 09
+在demo的基础上，将解码后的YUV数据帧，作为纹理层，给OpenGL显示绘制，采用QT封装好的OpenGL架构，不采用原生Opengl的API接口
+# demo10
+在QT框架中，学习OpenGL

@@ -1,0 +1,18 @@
+# ninja log v5
+3	218	7263444598606356	thread/worker_autogen/timestamp	fd2b9daa8a7d1230
+3	218	7263444598606356	thread/worker_autogen/mocs_compilation.cpp	fd2b9daa8a7d1230
+3	218	7263444598606356	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo08/build-demo08-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/worker_autogen/timestamp	fd2b9daa8a7d1230
+3	218	7263444598606356	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo08/build-demo08-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/worker_autogen/mocs_compilation.cpp	fd2b9daa8a7d1230
+222	1400	7263444610800115	thread/CMakeFiles/worker.dir/worker.cpp.obj	24e4382b00f2b6df
+219	1403	7263444610830013	thread/CMakeFiles/worker.dir/worker_autogen/mocs_compilation.cpp.obj	743626533c4ecb53
+1403	1432	7263444611081535	thread/worker.lib	67df026f4eecf27c
+1432	1687	7263444613156935	helloworld_autogen/timestamp	db388261e9ce8694
+1432	1687	7263444613156935	helloworld_autogen/mocs_compilation.cpp	db388261e9ce8694
+1432	1687	7263444613156935	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo08/build-demo08-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/helloworld_autogen/timestamp	db388261e9ce8694
+1432	1687	7263444613156935	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo08/build-demo08-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/helloworld_autogen/mocs_compilation.cpp	db388261e9ce8694
+1693	2401	7263444620814048	CMakeFiles/helloworld.dir/main.cpp.obj	b6d64810866cdc2c
+1696	2897	7263444625773155	CMakeFiles/helloworld.dir/media.cpp.obj	1512c1e3b1e1929a
+1687	2928	7263444626082603	CMakeFiles/helloworld.dir/helloworld_autogen/mocs_compilation.cpp.obj	aaebc4e2a0290a17
+1699	2947	7263444626271967	CMakeFiles/helloworld.dir/ffmpeg_widget.cpp.obj	98febcf86b0b64a8
+1690	2987	7263444626660666	CMakeFiles/helloworld.dir/widget.cpp.obj	c1750df97fef0eeb
+2987	3341	7263444630109734	helloworld.exe	b6e5d7fa84c2e675

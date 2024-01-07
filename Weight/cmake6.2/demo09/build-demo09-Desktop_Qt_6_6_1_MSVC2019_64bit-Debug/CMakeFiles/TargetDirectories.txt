@@ -1,0 +1,10 @@
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo02.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo02_autogen_timestamp_deps.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo02_autogen.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/worker.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/worker_autogen_timestamp_deps.dir
+C:/Users/Administrator/Desktop/Qt/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/worker_autogen.dir
