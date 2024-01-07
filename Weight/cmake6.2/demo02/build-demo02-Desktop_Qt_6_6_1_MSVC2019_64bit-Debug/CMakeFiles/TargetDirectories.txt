@@ -1,0 +1,8 @@
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo02.dir
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo02_autogen_timestamp_deps.dir
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo02/build-demo02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo02_autogen.dir

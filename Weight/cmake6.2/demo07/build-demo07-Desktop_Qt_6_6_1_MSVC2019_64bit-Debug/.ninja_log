@@ -1,0 +1,13 @@
+# ninja log v5
+3	283	7263070905538272	demo07_autogen/timestamp	8124d727a4648cad
+3	283	7263070905538272	demo07_autogen/mocs_compilation.cpp	8124d727a4648cad
+3	283	7263070905538272	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo07_autogen/timestamp	8124d727a4648cad
+3	283	7263070905538272	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo07_autogen/mocs_compilation.cpp	8124d727a4648cad
+283	342	7263070906584893	demo07_autogen/EWIEGA46WW/qrc_res.cpp	207f4b226a231a
+283	342	7263070906584893	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo07_autogen/EWIEGA46WW/qrc_res.cpp	207f4b226a231a
+355	399	7263070907182719	CMakeFiles/demo07.dir/demo07_autogen/EWIEGA46WW/qrc_res.cpp.obj	2c038ab65a63c643
+345	1056	7263070913732544	CMakeFiles/demo07.dir/main.cpp.obj	842132d635995018
+351	1461	7263070917768708	CMakeFiles/demo07.dir/opengl_widget.cpp.obj	560a34049d76a018
+342	1465	7263070917818554	CMakeFiles/demo07.dir/demo07_autogen/mocs_compilation.cpp.obj	9f6124de22c332a9
+6	1036	7263071086003004	CMakeFiles/demo07.dir/widget.cpp.obj	4575b731239ee7e3
+1036	1371	7263071089240809	demo07.exe	a73e35f1668a2d25

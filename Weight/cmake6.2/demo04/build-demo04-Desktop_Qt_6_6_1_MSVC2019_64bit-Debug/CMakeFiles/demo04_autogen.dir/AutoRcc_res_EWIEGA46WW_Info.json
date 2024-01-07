@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo04_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/demo04",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/demo04",
+	"INCLUDE_DIR" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo04_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/demo04/Fragment.frag",
+		"C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/demo04/Vertex.vert",
+		"C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/demo04/opengl2.jpg",
+		"C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/demo04/opengl.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo04_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "E:/ruanjian/Qt/6.6.1/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo04_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/demo04/res.qrc",
+	"VERBOSITY" : 0
+}

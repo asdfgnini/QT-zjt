@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fragment_axis.frag</file>
+        <file>Fragment_mesh.frag</file>
+        <file>Vertex_axis.vert</file>
+        <file>Vertex_mesh.vert</file>
+    </qresource>
+</RCC>

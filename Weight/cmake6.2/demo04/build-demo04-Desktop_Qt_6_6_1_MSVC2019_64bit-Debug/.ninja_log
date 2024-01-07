@@ -1,0 +1,13 @@
+# ninja log v5
+2	287	7263015388837416	demo04_autogen/timestamp	d5da7d183b8c2b37
+2	287	7263015388837416	demo04_autogen/mocs_compilation.cpp	d5da7d183b8c2b37
+2	287	7263015388837416	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo04_autogen/timestamp	d5da7d183b8c2b37
+2	287	7263015388837416	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo04_autogen/mocs_compilation.cpp	d5da7d183b8c2b37
+287	350	7263015389922242	demo04_autogen/EWIEGA46WW/qrc_res.cpp	5766ba0980b10ac
+287	350	7263015389922242	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo04/build-demo04-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo04_autogen/EWIEGA46WW/qrc_res.cpp	5766ba0980b10ac
+363	429	7263015390729990	CMakeFiles/demo04.dir/demo04_autogen/EWIEGA46WW/qrc_res.cpp.obj	12a8ed2df72df9
+354	1078	7263015397202184	CMakeFiles/demo04.dir/main.cpp.obj	64ef6d6f07d0776c
+350	1489	7263015401298126	CMakeFiles/demo04.dir/demo04_autogen/mocs_compilation.cpp.obj	da1e26561094ef9b
+360	1498	7263015401377893	CMakeFiles/demo04.dir/opengl_widget.cpp.obj	996406fb493b57be
+5	1028	7263015626923259	CMakeFiles/demo04.dir/mainwindow.cpp.obj	7cf971ae470c9caa
+1028	1381	7263015630359200	demo04.exe	7b9d0de9a566bbf3
