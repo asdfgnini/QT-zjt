@@ -18,3 +18,5 @@ ffmpeg 载入本地的流媒体文件，将解码后的YUV文件保存到本地�
 在demo的基础上，将解码后的YUV数据帧，作为纹理层，给OpenGL显示绘制，采用QT封装好的OpenGL架构，不采用原生Opengl的API接口
 # demo10
 在QT框架中，学习OpenGL
+#demo11
+阿西拜学习，基础练习，绘制二个颜色不同的三角形，采用二条渲染管线来做，实现openGL与QT控件的交互，使用了openGL的多边形绘制模式
