@@ -5,6 +5,9 @@ OpenGL_Widget::OpenGL_Widget(QWidget *parent)
     , VBO(QOpenGLBuffer::VertexBuffer)
     , IBO(QOpenGLBuffer::IndexBuffer)
 {
+    time.start(1000);
+    connect(&time,&QTimer::timeout,this,&OpenGL_Widget::on_timeslots);
+
     QSurfaceFormat surface;
     surface.setAlphaBufferSize(24);
     surface.setVersion(3,3);
@@ -20,9 +23,17 @@ OpenGL_Widget::OpenGL_Widget(QWidget *parent)
 
     vertex_inx = {
         0,1,2,
-        0,2,3
+        3,0,2
     };
 
+}
+
+OpenGL_Widget::~OpenGL_Widget()
+{
+    if(!isValid())// 判断对象是否创建了
+    {
+
+    }
 }
 
 
@@ -70,3 +81,16 @@ void OpenGL_Widget::paintGL()
     shaderprogram.release();
 
 }
+
+void OpenGL_Widget::on_timeslots()
+{
+    makeCurrent();
+    qDebug() << "123";
+    int timevalue = QTime::currentTime().second();
+    float greenvalue = (sin(timevalue) / 2.0f) + 0.5f;
+    shaderprogram.setUniformValue("ourcolor",0.0f,1.0f,0.0f,1.0f);
+
+    doneCurrent();
+    update();
+}
+

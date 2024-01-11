@@ -1,15 +1,15 @@
 demo06_autogen/timestamp: \
-	C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.qtc/package-manager/auto-setup.cmake \
-	C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
-	C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.27.7/CMakeRCCompiler.cmake \
-	C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/CMakeLists.txt \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/main.cpp \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/opengl_widget.cpp \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/opengl_widget.h \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/res.qrc \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/widget.cpp \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/widget.h \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.28.0/CMakeCXXCompiler.cmake \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.28.0/CMakeRCCompiler.cmake \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.28.0/CMakeSystem.cmake \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/CMakeLists.txt \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/main.cpp \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/opengl_widget.cpp \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/opengl_widget.h \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/res.qrc \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/widget.cpp \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/widget.h \
 	E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/QList \
 	E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/QObject \
 	E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/QRect \
@@ -412,35 +412,35 @@ demo06_autogen/timestamp: \
 	E:/ruanjian/Qt/6.6.1/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
 	E:/ruanjian/Qt/6.6.1/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
 	E:/ruanjian/Qt/6.6.1/msvc2019_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CheckLibraryExists.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/MSVC.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindPackageMessage.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindThreads.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/FindVulkan.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/GNUInstallDirs.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows.cmake \
-	E:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake \
-	C:/Users/Administrator/Desktop/Qt/demo06/demo06/widget.ui \
-	E:/ruanjian/Qt/Tools/CMake_64/bin/cmake.exe
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeRCInformation.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CheckIncludeFileCXX.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/CheckLibraryExists.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Compiler/MSVC.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/FindPackageMessage.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/FindThreads.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/FindVulkan.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/GNUInstallDirs.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Platform/Windows.cmake \
+	E:/ruanjian/cmake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake \
+	C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/widget.ui \
+	E:/ruanjian/cmake/bin/cmake.exe

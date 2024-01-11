@@ -12,7 +12,7 @@
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QWidget>
-#include "opengl_widget.h"
+#include <opengl_widget.h>
 
 QT_BEGIN_NAMESPACE
 

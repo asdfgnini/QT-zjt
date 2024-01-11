@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e9c084c80dd9bf19872e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "demo06",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "demo06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo06-Debug-73623bcc9b6032ca80f1.json",
+					"name" : "demo06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo06_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo06_autogen-Debug-d1da8a66a9690149473b.json",
+					"name" : "demo06_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo06_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo06_autogen_timestamp_deps-Debug-fc6be35a0785d9c17be1.json",
+					"name" : "demo06_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

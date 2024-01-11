@@ -1,8 +1,12 @@
 #version 330 core
 
 
+uniform vec4 ourcolor;
+out vec4 fragcolor;
+
 void main(void)
 {
-    gl_FragColor = vec4(1.0f, 1.0f, 0.0f, 1.0f);
+    // fragcolor = ourcolor;
+    fragcolor = vec4(0.0f,1.0f,0.0f,1.0f);
 
 }

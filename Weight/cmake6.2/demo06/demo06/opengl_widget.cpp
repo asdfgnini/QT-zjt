@@ -75,7 +75,7 @@ void OpenGL_Widget::paintGL()
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
     QMatrix4x4 projection, view, model;
-    projection.perspective(zoom, (float)width() / (float)height(), 1.0f, 100.0f);
+    projection.perspective(zoom, (float)width() / (float)height(), 0.1f, 15.0f);
 
     view.lookAt(QVector3D(0.0, 0.0, 10.0), QVector3D(0.0, 0.0, 1.0), QVector3D(0.0, 1.0, 0.0));
 
@@ -108,7 +108,7 @@ void OpenGL_Widget::paintGL()
 
 void OpenGL_Widget::resizeGL(int width, int height)
 {
-    glViewport(0, 0, width, height);
+    // glViewport(0, 0, width, height);
 }
 
 void OpenGL_Widget::mouseMoveEvent(QMouseEvent* event)
@@ -226,6 +226,10 @@ unsigned int OpenGL_Widget::draw_meshline(float size, int count)
 
         posX = posX - size;
         posZ = posZ - size;
+    }
+
+    foreach (auto a, mesh_vertexs) {
+        std::cout << a << " " ;
     }
 
     VAO_MeshLine.create();

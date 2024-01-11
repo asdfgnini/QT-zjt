@@ -8,12 +8,15 @@
 #include <QSurfaceFormat>
 #include <QOpenGLBuffer>
 #include <QOpenGLVertexArrayObject>
+#include <QTimer>
+#include <QTime>
 
 class OpenGL_Widget : public QOpenGLWidget,QOpenGLFunctions_3_3_Core
 {
     Q_OBJECT
 public:
     explicit OpenGL_Widget(QWidget *parent = nullptr);
+    ~OpenGL_Widget();
 
 protected:
     void initializeGL() override;
@@ -29,7 +32,10 @@ private:
     QVector<float> vertexs;
 
     QVector<unsigned int> vertex_inx;
+    QTimer time;
 
+public:
+    void on_timeslots();
 };
 
 #endif // OPENGL_WIDGET_H

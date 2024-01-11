@@ -1,4 +1,4 @@
-C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo06_autogen/EWIEGA46WW/moc_widget.cpp: C:/Users/Administrator/Desktop/Qt/demo06/demo06/widget.h \
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo06_autogen/EWIEGA46WW/moc_widget.cpp: C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/widget.h \
   E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/q20functional.h \
   E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/q20memory.h \
   E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/q20type_traits.h \

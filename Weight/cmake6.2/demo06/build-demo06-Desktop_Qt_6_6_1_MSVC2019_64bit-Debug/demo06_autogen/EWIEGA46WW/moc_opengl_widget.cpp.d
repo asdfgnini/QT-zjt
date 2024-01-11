@@ -1,4 +1,4 @@
-C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo06_autogen/EWIEGA46WW/moc_opengl_widget.cpp: C:/Users/Administrator/Desktop/Qt/demo06/demo06/opengl_widget.h \
+C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo06_autogen/EWIEGA46WW/moc_opengl_widget.cpp: C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06/opengl_widget.h \
   E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/QList \
   E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/QObject \
   E:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore/QRect \

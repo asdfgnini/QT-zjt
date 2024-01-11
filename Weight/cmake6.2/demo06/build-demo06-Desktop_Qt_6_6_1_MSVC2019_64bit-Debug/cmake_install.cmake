@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Administrator/Desktop/Qt/demo06/demo06
+# Install script for directory: C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/demo06
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,7 +33,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo06.exe")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo06.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -44,5 +44,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Administrator/Desktop/Qt/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Administrator/Desktop/Qt/QT-zjt/Weight/cmake6.2/demo06/build-demo06-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
