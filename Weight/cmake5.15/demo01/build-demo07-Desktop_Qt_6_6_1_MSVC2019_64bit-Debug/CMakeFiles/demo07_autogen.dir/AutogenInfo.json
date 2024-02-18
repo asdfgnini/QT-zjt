@@ -1,0 +1,244 @@
+{
+	"BUILD_DIR" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo07_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/22231/Desktop/Qt/demo07/demo07",
+	"CMAKE_EXECUTABLE" : "D:/ruanjian/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/22231/Desktop/Qt/demo07/demo07/CMakeLists.txt",
+		"C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.27.7/CMakeSystem.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake",
+		"C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/MSVC.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake",
+		"C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/3.27.7/CMakeRCCompiler.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QInsightTrackerPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/ruanjian/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5MultimediaConfigVersion.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5MultimediaConfig.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_AudioCaptureServicePlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_DSServicePlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QM3uPlaylistPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QWasapiPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QWindowsAudioPlugin.cmake",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_WMFServicePlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/22231/Desktop/Qt/demo07/demo07",
+	"DEP_FILE" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo07_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "demo07_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/audioplay.h",
+			"MU",
+			"SURKOIUAET/moc_audioplay.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/audiothread.h",
+			"MU",
+			"SURKOIUAET/moc_audiothread.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/decode.h",
+			"MU",
+			"SURKOIUAET/moc_decode.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/decodethread.h",
+			"MU",
+			"SURKOIUAET/moc_decodethread.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/demux.h",
+			"MU",
+			"SURKOIUAET/moc_demux.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/demuxthread.h",
+			"MU",
+			"SURKOIUAET/moc_demuxthread.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/resample.h",
+			"MU",
+			"SURKOIUAET/moc_resample.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/videocall.h",
+			"MU",
+			"SURKOIUAET/moc_videocall.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/videothread.h",
+			"MU",
+			"SURKOIUAET/moc_videothread.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/videowidget.h",
+			"MU",
+			"EWIEGA46WW/moc_videowidget.cpp",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/widget.h",
+			"MU",
+			"EWIEGA46WW/moc_widget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo07_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo07_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_WIDGETS_LIB",
+		"WIN32"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/ffmpeg-6.1.1-full_build-shared/include",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/include",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/include/QtWidgets",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/include/QtGui",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/include/QtANGLE",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/include/QtCore",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/mkspecs/win32-msvc",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/include/QtMultimedia",
+		"D:/ruanjian/Qt/5.15.2/msvc2019_64/include/QtNetwork"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo07_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/ruanjian/Qt/5.15.2/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/ruanjian/Qt/5.15.2/msvc2019_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Users/22231/Desktop/Qt/demo07/build-demo07-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo07_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/audioplay.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/audiothread.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/decode.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/decodethread.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/22231/Desktop/Qt/demo07/demo07/Media/demux.cpp", "MU", null ],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/demuxthread.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/resample.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/22231/Desktop/Qt/demo07/demo07/Media/videothread.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/22231/Desktop/Qt/demo07/demo07/main.cpp", "MU", null ],
+		[ "C:/Users/22231/Desktop/Qt/demo07/demo07/videowidget.cpp", "MU", null ],
+		[ "C:/Users/22231/Desktop/Qt/demo07/demo07/widget.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
