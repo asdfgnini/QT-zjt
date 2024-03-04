@@ -15,6 +15,7 @@
 
 using WorkCallback = std::function<bool()>;
 using WorkResultCallback = std::function<void(bool)>;
+
 Q_DECLARE_METATYPE(WorkCallback);
 Q_DECLARE_METATYPE(WorkResultCallback);
 
@@ -30,8 +31,6 @@ public:
         {
 
         }
-
-
 signals:
     void workFinished(bool, uint64_t);
 public slots:
@@ -141,6 +140,7 @@ protected:
     ThreadController(QObject* parent = nullptr)
         : QObject(parent)
     {
+
     }
 
 private:
