@@ -1,0 +1,17 @@
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/Thread03.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/Thread03_qmlimportscan.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/Thread03_autogen_timestamp_deps.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/Thread03_autogen.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/worker.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/edit_cache.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/rebuild_cache.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/list_install_components.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/install.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/install/local.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/worker_autogen_timestamp_deps.dir
+C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread03/build-Thread03-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/thread/CMakeFiles/worker_autogen.dir

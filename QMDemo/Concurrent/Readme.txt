@@ -1,0 +1,8 @@
+#Thread01
+添加worker cmake模块，如果你是Qt6,那么在你的顶层cmake上添加add_subdriary就行，如果是Qt5,则将源文件加载到工程中，该方式为worker-controler的方式
+#Thread02
+添加worker cmake模块，如果你是Qt6,那么在你的顶层cmake上添加add_subdriary就行，如果是Qt5,则将源文件加载到工程中，该方式为继承QThread方式
+#Thread03
+对Qt所提供的worker-control方式进行进一步封装，用法见实现文件注释，实现对子线程所执行的任务的结果回调处理
+#Thread04
+对Qt线程池的进一步封装，用法见实现文件注释，实现对子线程所执行的任务的结果回调处理

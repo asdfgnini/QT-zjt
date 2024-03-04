@@ -1,0 +1,134 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5d1bfced11b79fa082fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				},
+				{
+					"build" : "thread",
+					"jsonFile" : "directory-thread-Debug-9f696b3d0c5c247e01de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "thread",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "thread01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "thread01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread01-Debug-78fae23589613705a7a5.json",
+					"name" : "thread01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread01_autogen-Debug-8801cec6217b36ae83cb.json",
+					"name" : "thread01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread01_autogen_timestamp_deps-Debug-8f22d7a38e8cedec899a.json",
+					"name" : "thread01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thread01_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thread01_qmlimportscan-Debug-fb67354048e1d2369263.json",
+					"name" : "thread01_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "worker::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-worker-Debug-35f8b0ee6350e6dd0642.json",
+					"name" : "worker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "worker_autogen::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-worker_autogen-Debug-b253aa0d57bf10635f47.json",
+					"name" : "worker_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "worker_autogen_timestamp_deps::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-worker_autogen_timestamp_deps-Debug-abdc697b9066e666e1e2.json",
+					"name" : "worker_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread01/build-thread01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/Concurrent/Thread01/thread01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
