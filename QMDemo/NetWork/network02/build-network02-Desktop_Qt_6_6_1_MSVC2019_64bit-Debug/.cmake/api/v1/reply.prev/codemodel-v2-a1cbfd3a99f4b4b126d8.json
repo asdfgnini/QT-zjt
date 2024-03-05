@@ -1,0 +1,134 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-545509ba9f5ba6138244.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "network",
+					"jsonFile" : "directory-network-Debug-b870af0d895d89e95012.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "network",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "network02",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "network::@39732e8ab9fc593479e7",
+					"jsonFile" : "target-network-Debug-179d9b34dad49735fb37.json",
+					"name" : "network",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network02-Debug-9702539f4fc8c0dd500e.json",
+					"name" : "network02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network02_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network02_autogen-Debug-99ea28b6184bbac318a1.json",
+					"name" : "network02_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network02_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network02_autogen_timestamp_deps-Debug-5e8b82a69181d2b41609.json",
+					"name" : "network02_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network02_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network02_qmlimportscan-Debug-765f8e6fd1fbfc676e23.json",
+					"name" : "network02_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "network_autogen::@39732e8ab9fc593479e7",
+					"jsonFile" : "target-network_autogen-Debug-513ea6dec361b3f185d4.json",
+					"name" : "network_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "network_autogen_timestamp_deps::@39732e8ab9fc593479e7",
+					"jsonFile" : "target-network_autogen_timestamp_deps-Debug-16bd9ed239deedf61f42.json",
+					"name" : "network_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

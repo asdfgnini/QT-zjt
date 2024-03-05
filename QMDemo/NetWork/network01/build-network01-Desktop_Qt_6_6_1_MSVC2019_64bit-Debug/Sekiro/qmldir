@@ -1,0 +1,40 @@
+module Sekiro
+linktarget sekiro
+optional plugin sekiro
+classname SekiroPlugin
+typeinfo plugins.qmltypes
+prefer :/qt/qml/Sekiro/
+SekArea 1.0 Qt6/SekArea.qml
+SekAutoSuggestBox 1.0 Qt6/SekAutoSuggestBox.qml
+SekClip 1.0 Qt6/SekClip.qml
+SekControl 1.0 Qt6/SekControl.qml
+SekCopyableText 1.0 Qt6/SekCopyableText.qml
+SekDropDownButton 1.0 Qt6/SekDropDownButton.qml
+SekFocusRectangle 1.0 Qt6/SekFocusRectangle.qml
+SekIcon 1.0 Qt6/SekIcon.qml
+SekIconButton 1.0 Qt6/SekIconButton.qml
+SekLoader 1.0 Qt6/SekLoader.qml
+SekLoadingButton 1.0 Qt6/SekLoadingButton.qml
+SekMenu 1.0 Qt6/SekMenu.qml
+SekMenuItem 1.0 Qt6/SekMenuItem.qml
+SekMultilineTextBox 1.0 Qt6/SekMultilineTextBox.qml
+SekPasswordBox 1.0 Qt6/SekPasswordBox.qml
+SekProgressButton 1.0 Qt6/SekProgressButton.qml
+SekProgressRing 1.0 Qt6/SekProgressRing.qml
+SekRadioButton 1.0 Qt6/SekRadioButton.qml
+SekRadioButtons 1.0 Qt6/SekRadioButtons.qml
+SekScrollBar 1.0 Qt6/SekScrollBar.qml
+SekShadow 1.0 Qt6/SekShadow.qml
+SekSpinBox 1.0 Qt6/SekSpinBox.qml
+SekText 1.0 Qt6/SekText.qml
+SekTextBox 1.0 Qt6/SekTextBox.qml
+SekTextBoxBackground 1.0 Qt6/SekTextBoxBackground.qml
+SekTextBoxMenu 1.0 Qt6/SekTextBoxMenu.qml
+SekTextButton 1.0 Qt6/SekTextButton.qml
+SekToggleButton 1.0 Qt6/SekToggleButton.qml
+SekToggleSwitch 1.0 Qt6/SekToggleSwitch.qml
+SekTooltip 1.0 Qt6/SekTooltip.qml
+SekiroButton 1.0 Qt6/SekiroButton.qml
+SekiroControls 1.0 Qt6/SekiroControls.qml
+TextBoxViewModel 1.0 Qt6/ViewModel/TextBoxViewModel.qml
+

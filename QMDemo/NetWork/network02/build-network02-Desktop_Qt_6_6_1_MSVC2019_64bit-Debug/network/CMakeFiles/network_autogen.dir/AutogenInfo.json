@@ -1,0 +1,86 @@
+{
+	"BUILD_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02/network",
+	"CMAKE_EXECUTABLE" : "G:/ruanjian/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02/network/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02",
+	"DEP_FILE" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "network_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02/network/tcpserver.h",
+			"MU",
+			"EWIEGA46WW/moc_tcpserver.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_NETWORK_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtNetwork",
+		"G:/ruanjian/Qt/6.6.1/msvc2019_64/include",
+		"G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtCore",
+		"G:/ruanjian/Qt/6.6.1/msvc2019_64/mkspecs/win32-msvc"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/CMakeFiles/network_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "G:/ruanjian/Qt/6.6.1/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/CMakeFiles/network_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02/network/tcpserver.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

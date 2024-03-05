@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network02_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02",
+	"CMAKE_SOURCE_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02",
+	"INCLUDE_DIR" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network02_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02/main.qml"
+	],
+	"LOCK_FILE" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/network02_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "G:/ruanjian/Qt/6.6.1/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/network02_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/network02/qml.qrc",
+	"VERBOSITY" : 0
+}

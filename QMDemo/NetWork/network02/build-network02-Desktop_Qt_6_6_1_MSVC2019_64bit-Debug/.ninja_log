@@ -1,0 +1,25 @@
+# ninja log v5
+5	433	7313083789182137	.qt_plugins/Qt6_QmlPlugins_Imports_network02.cmake	9e5e2d7b12fc635c
+5	433	7313083789182137	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_network02.cmake	9e5e2d7b12fc635c
+8	455	7313083789002013	network/network_autogen/timestamp	9d23f780a244b358
+8	455	7313083789002013	network/network_autogen/mocs_compilation.cpp	9d23f780a244b358
+8	455	7313083789002013	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen/timestamp	9d23f780a244b358
+8	455	7313083789002013	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen/mocs_compilation.cpp	9d23f780a244b358
+433	581	7313083790148105	network02_autogen/timestamp	bfcc0fd73b454e5c
+433	581	7313083790148105	network02_autogen/mocs_compilation.cpp	bfcc0fd73b454e5c
+433	581	7313083790148105	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network02_autogen/timestamp	bfcc0fd73b454e5c
+433	581	7313083790148105	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network02_autogen/mocs_compilation.cpp	bfcc0fd73b454e5c
+581	639	7313083791248213	network02_autogen/EWIEGA46WW/qrc_qml.cpp	9a46d6267e63e395
+581	639	7313083791248213	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network02_autogen/EWIEGA46WW/qrc_qml.cpp	9a46d6267e63e395
+639	1071	7313083795588375	CMakeFiles/network02.dir/network02_autogen/mocs_compilation.cpp.obj	333257f5791d5c4f
+645	1073	7313083795598379	CMakeFiles/network02.dir/network02_autogen/EWIEGA46WW/qrc_qml.cpp.obj	475edcc89b326fff
+455	1779	7313083802638943	network/CMakeFiles/network.dir/network_autogen/mocs_compilation.cpp.obj	70780cc1d13c22c
+642	1912	7313083803963821	CMakeFiles/network02.dir/main.cpp.obj	2af70b6f21aa8fa3
+9	227	7313084553272112	network/network_autogen/timestamp	9d23f780a244b358
+9	227	7313084553272112	network/network_autogen/mocs_compilation.cpp	9d23f780a244b358
+9	227	7313084553272112	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen/timestamp	9d23f780a244b358
+9	227	7313084553272112	C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network02/build-network02-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/network/network_autogen/mocs_compilation.cpp	9d23f780a244b358
+228	1173	7313084563106721	network/CMakeFiles/network.dir/network_autogen/mocs_compilation.cpp.obj	70780cc1d13c22c
+231	1180	7313084563171837	network/CMakeFiles/network.dir/tcpserver.cpp.obj	b88c82c34d464e43
+1180	1973	7313084571092884	network/network.lib	b901f67f1f649308
+7	2051	7313084571757940	network02.exe	8092ed186ee38017

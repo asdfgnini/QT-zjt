@@ -1,0 +1,177 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5572352205102bd21f5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "network",
+					"jsonFile" : "directory-network-Debug-b870af0d895d89e95012.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "network",
+					"targetIndexes" : 
+					[
+						0,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "thread",
+					"jsonFile" : "directory-thread-Debug-9f696b3d0c5c247e01de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "thread",
+					"targetIndexes" : 
+					[
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "network01",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "network::@39732e8ab9fc593479e7",
+					"jsonFile" : "target-network-Debug-8698ff25888f644850d5.json",
+					"name" : "network",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network01-Debug-0ff72c13dd3e0e7b714a.json",
+					"name" : "network01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network01_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network01_autogen-Debug-e7e6c441a9d7f9d761df.json",
+					"name" : "network01_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network01_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network01_autogen_timestamp_deps-Debug-5941bd3509c2fcef850b.json",
+					"name" : "network01_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "network01_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-network01_qmlimportscan-Debug-e5fb5b83cf0248d1a12c.json",
+					"name" : "network01_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "network_autogen::@39732e8ab9fc593479e7",
+					"jsonFile" : "target-network_autogen-Debug-20954457267c15a32104.json",
+					"name" : "network_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "network_autogen_timestamp_deps::@39732e8ab9fc593479e7",
+					"jsonFile" : "target-network_autogen_timestamp_deps-Debug-1845884d93fc7389ab00.json",
+					"name" : "network_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "thread::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-thread-Debug-f03ba1ab45e3f0dc0260.json",
+					"name" : "thread",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "thread_autogen::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-thread_autogen-Debug-c357af4d1a5ef8ea5276.json",
+					"name" : "thread_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "thread_autogen_timestamp_deps::@1994991b6c1bd8685afc",
+					"jsonFile" : "target-thread_autogen_timestamp_deps-Debug-53019c40051fa11f4bc8.json",
+					"name" : "thread_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network01/build-network01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/22231/Desktop/QT-zjt/QMDemo/NetWork/network01/network01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
