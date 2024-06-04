@@ -1,0 +1,12 @@
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/uninstall.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rosqt_uninstall.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rosqt.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/test.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rosqt_autogen_timestamp_deps.dir
+/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rosqt_autogen.dir

@@ -1,0 +1,25 @@
+# ninja log v5
+5	24	1709191556951087325	rosqt_autogen/timestamp	fd3acd30a4ef48ff
+5	101	1709192345752292428	rosqt_autogen/EWIEGA46WW/qrc_qml.cpp	e6228d5b9912872d
+246	4430	1709176953755532156	CMakeFiles/rosqt.dir/interaction.cpp.o	8f91a0a73c4ccef9
+5	101	1709192345752292428	/home/zjt/qtfile/qt5/demo01/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/EWIEGA46WW/qrc_qml.cpp	e6228d5b9912872d
+245	4652	1709176953971527105	CMakeFiles/rosqt.dir/main.cpp.o	3b5b3eca89da920f
+101	3360	1709192349028133902	CMakeFiles/rosqt.dir/rosqt_autogen/EWIEGA46WW/qrc_qml.cpp.o	8c18513e711cd8ab
+245	4529	1709176953855529817	CMakeFiles/rosqt.dir/rosqt_autogen/mocs_compilation.cpp.o	ef584777421f3494
+5	24	1709191556951087325	rosqt_autogen/mocs_compilation.cpp	fd3acd30a4ef48ff
+3360	4261	1709192349928090367	rosqt	ac8d205068073c73
+5	24	1709191556951087325	/home/zjt/qtfile/qt5/demo01/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/mocs_compilation.cpp	fd3acd30a4ef48ff
+47	10635	1709189638009094186	CMakeFiles/rosqt.dir/thread/worker.cpp.o	eee0d494154d4d88
+5	24	1709191556951087325	/home/zjt/qtfile/qt5/demo01/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/timestamp	fd3acd30a4ef48ff
+4	213	1709192713530936064	rosqt_autogen/timestamp	972ddab4fb715ccc
+4	213	1709192713530936064	rosqt_autogen/mocs_compilation.cpp	972ddab4fb715ccc
+4	213	1709192713530936064	/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/timestamp	972ddab4fb715ccc
+4	213	1709192713530936064	/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/mocs_compilation.cpp	972ddab4fb715ccc
+213	277	1709192713602932734	rosqt_autogen/EWIEGA46WW/qrc_qml.cpp	9d24d9e51655f4ba
+213	277	1709192713602932734	/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/EWIEGA46WW/qrc_qml.cpp	9d24d9e51655f4ba
+279	3906	1709192717230765021	CMakeFiles/rosqt.dir/rosqt_autogen/EWIEGA46WW/qrc_qml.cpp.o	3d2a743c41c7c54
+278	4279	1709192717602747827	CMakeFiles/rosqt.dir/interaction.cpp.o	8c9faa9ef9468b72
+277	4362	1709192717686743944	CMakeFiles/rosqt.dir/rosqt_autogen/mocs_compilation.cpp.o	1c423691fba9d6e5
+278	4468	1709192717794738953	CMakeFiles/rosqt.dir/main.cpp.o	429955c01ff3d0f6
+278	8988	1709192722310530274	CMakeFiles/rosqt.dir/thread/worker.cpp.o	a32ba6baf14c2675
+8989	9632	1709192722958500338	rosqt	ac8d205068073c73

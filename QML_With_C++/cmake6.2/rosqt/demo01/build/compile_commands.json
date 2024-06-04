@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zjt/vscode/demo01/build",
+  "command": "/usr/bin/g++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_cyclonedds_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -isystem /opt/ros/galactic/include  -g   -std=gnu++17 -o CMakeFiles/ros.dir/main.cpp.o -c /home/zjt/vscode/demo01/main.cpp",
+  "file": "/home/zjt/vscode/demo01/main.cpp"
+}
+]

@@ -1,0 +1,1045 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "rosqt"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"install",
+			"target_link_libraries",
+			"set_property",
+			"_populate_Quick_target_properties",
+			"find_package",
+			"_populate_Qml_target_properties",
+			"set_target_properties",
+			"include",
+			"add_compile_definitions"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"/home/zjt/Qt/5.15.2/gcc_64/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake",
+			"/home/zjt/Qt/5.15.2/gcc_64/lib/cmake/Qt5/Qt5Config.cmake",
+			"/home/zjt/Qt/5.15.2/gcc_64/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake",
+			"/home/zjt/Qt/5.15.2/gcc_64/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake",
+			"/opt/ros/galactic/share/rclcpp/cmake/rclcppExport.cmake",
+			"/opt/ros/galactic/share/rclcpp/cmake/ament_cmake_export_targets-extras.cmake",
+			"/opt/ros/galactic/share/rclcpp/cmake/rclcppConfig.cmake",
+			"/opt/ros/galactic/share/libstatistics_collector/cmake/libstatistics_collector_test_msgs__rosidl_generator_cExport.cmake",
+			"/opt/ros/galactic/share/libstatistics_collector/cmake/ament_cmake_export_targets-extras.cmake",
+			"/opt/ros/galactic/share/libstatistics_collector/cmake/libstatistics_collectorConfig.cmake",
+			"/opt/ros/galactic/share/rclcpp/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/galactic/share/rcl/cmake/rclExport.cmake",
+			"/opt/ros/galactic/share/rcl/cmake/ament_cmake_export_targets-extras.cmake",
+			"/opt/ros/galactic/share/rcl/cmake/rclConfig.cmake",
+			"/opt/ros/galactic/share/libstatistics_collector/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/galactic/share/rcl_yaml_param_parser/cmake/rcl_yaml_param_parserExport.cmake",
+			"/opt/ros/galactic/share/rcl_yaml_param_parser/cmake/ament_cmake_export_targets-extras.cmake",
+			"/opt/ros/galactic/share/rcl_yaml_param_parser/cmake/rcl_yaml_param_parserConfig.cmake",
+			"/opt/ros/galactic/share/rcl/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/galactic/share/libstatistics_collector/cmake/libstatistics_collector_test_msgs__rosidl_typesupport_introspection_cppExport.cmake",
+			"/opt/ros/galactic/share/libstatistics_collector/cmake/libstatistics_collector_test_msgs__rosidl_typesupport_introspection_cExport.cmake",
+			"/opt/ros/galactic/share/libstatistics_collector/cmake/libstatistics_collector_test_msgs__rosidl_typesupport_cExport.cmake",
+			"/opt/ros/galactic/share/rcutils/cmake/rcutilsExport.cmake",
+			"/opt/ros/galactic/share/rcutils/cmake/ament_cmake_export_targets-extras.cmake",
+			"/opt/ros/galactic/share/rcutils/cmake/rcutilsConfig.cmake",
+			"/opt/ros/galactic/share/rosidl_runtime_c/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/galactic/share/rosidl_runtime_c/cmake/rosidl_runtime_cConfig.cmake",
+			"/opt/ros/galactic/share/builtin_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/galactic/share/builtin_interfaces/cmake/builtin_interfacesConfig.cmake",
+			"/opt/ros/galactic/share/rcl_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/galactic/share/rcl_interfaces/cmake/rcl_interfacesConfig.cmake",
+			"taoQuick.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 70,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 28,
+				"parent" : 5
+			},
+			{
+				"file" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 201,
+				"parent" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 7
+			},
+			{
+				"file" : 4,
+				"parent" : 10
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 99,
+				"parent" : 11
+			},
+			{
+				"file" : 3,
+				"parent" : 12
+			},
+			{
+				"command" : 6,
+				"file" : 3,
+				"line" : 201,
+				"parent" : 13
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 45,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"file" : 7,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 41,
+				"parent" : 17
+			},
+			{
+				"file" : 6,
+				"parent" : 18
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 9,
+				"parent" : 19
+			},
+			{
+				"file" : 5,
+				"parent" : 20
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 56,
+				"parent" : 21
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 41,
+				"parent" : 17
+			},
+			{
+				"file" : 11,
+				"parent" : 23
+			},
+			{
+				"command" : 5,
+				"file" : 11,
+				"line" : 21,
+				"parent" : 24
+			},
+			{
+				"file" : 10,
+				"parent" : 25
+			},
+			{
+				"command" : 8,
+				"file" : 10,
+				"line" : 41,
+				"parent" : 26
+			},
+			{
+				"file" : 9,
+				"parent" : 27
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 9,
+				"parent" : 28
+			},
+			{
+				"file" : 8,
+				"parent" : 29
+			},
+			{
+				"command" : 7,
+				"file" : 8,
+				"line" : 56,
+				"parent" : 30
+			},
+			{
+				"command" : 8,
+				"file" : 10,
+				"line" : 41,
+				"parent" : 26
+			},
+			{
+				"file" : 15,
+				"parent" : 32
+			},
+			{
+				"command" : 5,
+				"file" : 15,
+				"line" : 21,
+				"parent" : 33
+			},
+			{
+				"file" : 14,
+				"parent" : 34
+			},
+			{
+				"command" : 8,
+				"file" : 14,
+				"line" : 41,
+				"parent" : 35
+			},
+			{
+				"file" : 13,
+				"parent" : 36
+			},
+			{
+				"command" : 8,
+				"file" : 13,
+				"line" : 9,
+				"parent" : 37
+			},
+			{
+				"file" : 12,
+				"parent" : 38
+			},
+			{
+				"command" : 7,
+				"file" : 12,
+				"line" : 56,
+				"parent" : 39
+			},
+			{
+				"command" : 8,
+				"file" : 14,
+				"line" : 41,
+				"parent" : 35
+			},
+			{
+				"file" : 19,
+				"parent" : 41
+			},
+			{
+				"command" : 5,
+				"file" : 19,
+				"line" : 21,
+				"parent" : 42
+			},
+			{
+				"file" : 18,
+				"parent" : 43
+			},
+			{
+				"command" : 8,
+				"file" : 18,
+				"line" : 41,
+				"parent" : 44
+			},
+			{
+				"file" : 17,
+				"parent" : 45
+			},
+			{
+				"command" : 8,
+				"file" : 17,
+				"line" : 9,
+				"parent" : 46
+			},
+			{
+				"file" : 16,
+				"parent" : 47
+			},
+			{
+				"command" : 7,
+				"file" : 16,
+				"line" : 56,
+				"parent" : 48
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 9,
+				"parent" : 28
+			},
+			{
+				"file" : 20,
+				"parent" : 50
+			},
+			{
+				"command" : 7,
+				"file" : 20,
+				"line" : 56,
+				"parent" : 51
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 9,
+				"parent" : 28
+			},
+			{
+				"file" : 21,
+				"parent" : 53
+			},
+			{
+				"command" : 7,
+				"file" : 21,
+				"line" : 56,
+				"parent" : 54
+			},
+			{
+				"command" : 8,
+				"file" : 9,
+				"line" : 9,
+				"parent" : 28
+			},
+			{
+				"file" : 22,
+				"parent" : 56
+			},
+			{
+				"command" : 7,
+				"file" : 22,
+				"line" : 56,
+				"parent" : 57
+			},
+			{
+				"command" : 5,
+				"file" : 19,
+				"line" : 21,
+				"parent" : 42
+			},
+			{
+				"file" : 31,
+				"parent" : 59
+			},
+			{
+				"command" : 8,
+				"file" : 31,
+				"line" : 41,
+				"parent" : 60
+			},
+			{
+				"file" : 30,
+				"parent" : 61
+			},
+			{
+				"command" : 5,
+				"file" : 30,
+				"line" : 21,
+				"parent" : 62
+			},
+			{
+				"file" : 29,
+				"parent" : 63
+			},
+			{
+				"command" : 8,
+				"file" : 29,
+				"line" : 41,
+				"parent" : 64
+			},
+			{
+				"file" : 28,
+				"parent" : 65
+			},
+			{
+				"command" : 5,
+				"file" : 28,
+				"line" : 21,
+				"parent" : 66
+			},
+			{
+				"file" : 27,
+				"parent" : 67
+			},
+			{
+				"command" : 8,
+				"file" : 27,
+				"line" : 41,
+				"parent" : 68
+			},
+			{
+				"file" : 26,
+				"parent" : 69
+			},
+			{
+				"command" : 5,
+				"file" : 26,
+				"line" : 21,
+				"parent" : 70
+			},
+			{
+				"file" : 25,
+				"parent" : 71
+			},
+			{
+				"command" : 8,
+				"file" : 25,
+				"line" : 41,
+				"parent" : 72
+			},
+			{
+				"file" : 24,
+				"parent" : 73
+			},
+			{
+				"command" : 8,
+				"file" : 24,
+				"line" : 9,
+				"parent" : 74
+			},
+			{
+				"file" : 23,
+				"parent" : 75
+			},
+			{
+				"command" : 7,
+				"file" : 23,
+				"line" : 56,
+				"parent" : 76
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"file" : 32,
+				"parent" : 78
+			},
+			{
+				"command" : 9,
+				"file" : 32,
+				"line" : 10,
+				"parent" : 79
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "DEFAULT_RMW_IMPLEMENTATION=rmw_cyclonedds_cpp"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "RCUTILS_ENABLE_FAULT_INJECTION"
+				},
+				{
+					"backtrace" : 80,
+					"define" : "TaoQuickImportPath=\"file:////home/zjt/qtfile/qt5/rosqt/rosqt/\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/./mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/include/QtQml"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/zjt/Qt/5.15.2/gcc_64/include/QtGui"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/opt/ros/galactic/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					3,
+					3
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				8
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "rosqt_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "rosqt_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "rosqt::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/zjt/Qt/5.15.2/gcc_64/lib:/opt/ros/galactic/lib:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/zjt/Qt/5.15.2/gcc_64/lib/libQt5Quick.so.5.15.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/opt/ros/galactic/lib/librclcpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "/home/zjt/Qt/5.15.2/gcc_64/lib/libQt5QmlModels.so.5.15.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "/home/zjt/Qt/5.15.2/gcc_64/lib/libQt5Qml.so.5.15.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "/home/zjt/Qt/5.15.2/gcc_64/lib/libQt5Network.so.5.15.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "/home/zjt/Qt/5.15.2/gcc_64/lib/libQt5Gui.so.5.15.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/zjt/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libament_index_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/liblibstatistics_collector.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/liblibstatistics_collector_test_msgs__rosidl_typesupport_introspection_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/liblibstatistics_collector_test_msgs__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/liblibstatistics_collector_test_msgs__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/liblibstatistics_collector_test_msgs__rosidl_typesupport_introspection_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/liblibstatistics_collector_test_msgs__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/opt/ros/galactic/lib/libstd_msgs__rosidl_typesupport_introspection_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/opt/ros/galactic/lib/libstd_msgs__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/opt/ros/galactic/lib/libstd_msgs__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/opt/ros/galactic/lib/libstd_msgs__rosidl_typesupport_introspection_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/opt/ros/galactic/lib/libstd_msgs__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librcl.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librcl_interfaces__rosidl_typesupport_introspection_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librcl_interfaces__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librcl_interfaces__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librcl_interfaces__rosidl_typesupport_introspection_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librcl_interfaces__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librmw_implementation.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librcl_logging_spdlog.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librcl_logging_interface.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librcl_yaml_param_parser.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/opt/ros/galactic/lib/librmw.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 49,
+				"fragment" : "/opt/ros/galactic/lib/libyaml.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librosgraph_msgs__rosidl_typesupport_introspection_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librosgraph_msgs__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librosgraph_msgs__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librosgraph_msgs__rosidl_typesupport_introspection_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librosgraph_msgs__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libstatistics_msgs__rosidl_typesupport_introspection_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libstatistics_msgs__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libstatistics_msgs__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libstatistics_msgs__rosidl_typesupport_introspection_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libstatistics_msgs__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libbuiltin_interfaces__rosidl_typesupport_introspection_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libbuiltin_interfaces__rosidl_generator_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libbuiltin_interfaces__rosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libbuiltin_interfaces__rosidl_typesupport_introspection_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "/opt/ros/galactic/lib/librosidl_typesupport_introspection_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 55,
+				"fragment" : "/opt/ros/galactic/lib/librosidl_typesupport_introspection_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libbuiltin_interfaces__rosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librosidl_typesupport_cpp.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 58,
+				"fragment" : "/opt/ros/galactic/lib/librosidl_typesupport_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librcpputils.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/opt/ros/galactic/lib/librosidl_runtime_c.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/librcutils.so",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 77,
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/opt/ros/galactic/lib/libtracetools.so",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "rosqt",
+	"nameOnDisk" : "rosqt",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				5,
+				8
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2,
+				7
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				4,
+				6
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				9,
+				10
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "qml.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "thread/worker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "thread/worker.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "interaction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "interaction.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/EWIEGA46WW/qrc_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug/rosqt_autogen/EWIEGA46WW/qrc_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

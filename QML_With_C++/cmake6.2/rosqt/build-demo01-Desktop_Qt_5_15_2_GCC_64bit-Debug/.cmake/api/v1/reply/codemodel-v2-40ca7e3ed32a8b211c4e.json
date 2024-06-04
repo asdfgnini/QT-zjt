@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5c5cb831fab234eb1d5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rosqt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rosqt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosqt-Debug-28b5675c3a4d9920e3c8.json",
+					"name" : "rosqt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosqt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosqt_autogen-Debug-0652c39635dbf0ea960b.json",
+					"name" : "rosqt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosqt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosqt_autogen_timestamp_deps-Debug-d139e071ed1e5e537559.json",
+					"name" : "rosqt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rosqt_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rosqt_uninstall-Debug-22c1273cce877e1d464a.json",
+					"name" : "rosqt_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-ba508ca19098c8f83212.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zjt/qtfile/qt5/rosqt/build-demo01-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/zjt/qtfile/qt5/rosqt/rosqt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
